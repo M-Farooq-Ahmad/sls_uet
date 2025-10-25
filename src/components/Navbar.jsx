@@ -20,6 +20,7 @@ export default function Navbar() {
           <a href="/#events" className="hover:text-cyan-600">Events</a>
           <a href="/#certifications" className="hover:text-cyan-600">Certifications</a>
           <a href="#contact" className="hover:text-cyan-600">Contact</a>
+          <a href="/verification" className="hover:text-cyan-600">Verification</a>
         </div>
       </div>
     </nav>
