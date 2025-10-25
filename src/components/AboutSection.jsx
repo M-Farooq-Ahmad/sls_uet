@@ -24,23 +24,12 @@ export default function AboutSection() {
         </h3>
 
         <p className="text-gray-800 leading-relaxed">
-          Our vision is to empower students by creating a dynamic platform where
-          potential meets opportunity. We are dedicated to providing meaningful
-          internships, job placements, and career counseling sessions that guide
-          students toward success and self-discovery. Beyond professional
-          growth, we are equally committed to student welfare — supporting
-          deserving individuals by helping with university fees, ensuring that
-          no financial challenge hinders their educational journey.
+          Our vision is to empower students by creating a dynamic platform where potential meets opportunity. We are dedicated to providing meaningful internships, job placements, and career counseling sessions that guide students toward success and self-discovery. Beyond professional growth, we are equally committed to student welfare supporting deserving individuals by helping with university fees, ensuring that no financial challenge hinders their educational journey.
+
         </p>
 
         <p className="text-gray-800 leading-relaxed mt-6">
-          In addition, we aim to organize industrial tours and educational trips
-          that bridge the gap between academic learning and practical
-          experience, inspiring students to explore, learn, and grow beyond the
-          classroom. Through these collective efforts, we aspire to cultivate a
-          generation of capable, confident, and compassionate students who not
-          only achieve personal success but also contribute positively to the
-          community around them.
+          In addition, we aim to organize industrial tours and educational trips that bridge the gap between academic learning and practical experience, inspiring students to explore, learn, and grow beyond the classroom. Through these collective efforts, we aspire to cultivate a generation of capable, confident, and compassionate students who not only achieve personal success but also contribute positively to the community around them.
         </p>
       </div>
     </section>
